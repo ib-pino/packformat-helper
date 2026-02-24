@@ -67,6 +67,10 @@ This extension does not add any additional settings.
 ### 1.0.10
 - Added Version "26.1-snapshot-8"
 
+### 1.0.11
+- Added Version "26.1-snapshot-9"
+- Added Version "26.1-snapshot-10"
+
 
 ## More Information
 
