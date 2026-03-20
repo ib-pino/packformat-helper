@@ -77,6 +77,10 @@ This extension does not add any additional settings.
 ### 1.0.13
 - Added Version "26.1 Pre-Release 1"
 
+### 1.0.14
+- Added Version "26.1 Pre-Release 2"
+- Added Version "26.1 Pre-Release 3"
+
 
 ## More Information
 
