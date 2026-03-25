@@ -81,6 +81,9 @@ This extension does not add any additional settings.
 - Added Version "26.1 Pre-Release 2"
 - Added Version "26.1 Pre-Release 3"
 
+### 1.1.0
+- Added Version "26.1"
+
 
 ## More Information
 
