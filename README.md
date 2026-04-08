@@ -84,6 +84,9 @@ This extension does not add any additional settings.
 ### 1.1.0
 - Added Version "26.1"
 
+### 1.1.1
+- Added Version "26.1.1"
+- Added Version "26.2-snapshot-1"
 
 ## More Information
 
