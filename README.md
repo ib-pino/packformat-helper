@@ -88,6 +88,10 @@ This extension does not add any additional settings.
 - Added Version "26.1.1"
 - Added Version "26.2-snapshot-1"
 
+### 1.1.2
+- Added Version "26.1.2"
+- Added Version "26.2-snapshot-2"
+
 ## More Information
 
 - [Visual Studio Code Extensions Guide](https://code.visualstudio.com/api)
