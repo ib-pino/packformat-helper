@@ -103,6 +103,9 @@ This extension does not add any additional settings.
 ### 1.1.5
 - Added Version "26.2-snapshot-7"
 
+### 1.1.6
+- Added Version "26.2-snapshot-8"
+
 ## More Information
 
 - [Visual Studio Code Extensions Guide](https://code.visualstudio.com/api)
