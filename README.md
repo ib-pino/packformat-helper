@@ -106,6 +106,9 @@ This extension does not add any additional settings.
 ### 1.1.6
 - Added Version "26.2-snapshot-8"
 
+### 1.1.7
+- Added Version "26.2"
+
 ## More Information
 
 - [Visual Studio Code Extensions Guide](https://code.visualstudio.com/api)
