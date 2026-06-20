@@ -109,6 +109,15 @@ This extension does not add any additional settings.
 ### 1.1.7
 - Added Version "26.2"
 
+### 1.2.0
+- Renamed Version "26.2" to "26.2 Pre-Release 1"
+- Added Version "26.2 Pre-Release 2"
+-               "26.2 Pre-Release 3"
+-               "26.2 Pre-Release 4"
+-               "26.2 Pre-Release 5"
+-               "26.2 Pre-Release 6"
+-               "26.2"
+
 ## More Information
 
 - [Visual Studio Code Extensions Guide](https://code.visualstudio.com/api)
