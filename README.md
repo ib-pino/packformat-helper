@@ -118,6 +118,9 @@ This extension does not add any additional settings.
 -               "26.2 Pre-Release 6"
 -               "26.2"
 
+### 1.2.1
+- Added Version "26.3-snapshot-1"～"26.3-snapshot-4"
+
 ## More Information
 
 - [Visual Studio Code Extensions Guide](https://code.visualstudio.com/api)
