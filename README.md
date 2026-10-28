@@ -131,6 +131,9 @@ This extension does not add any additional settings.
 ### 1.3.1
 - Added Version "26.3"
 
+### 1.4.0
+- Added Version "26.4-snapshot-1"～"26.4-snapshot-6"
+
 ## More Information
 
 - [Visual Studio Code Extensions Guide](https://code.visualstudio.com/api)

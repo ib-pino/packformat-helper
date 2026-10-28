@@ -719,9 +719,16 @@ const dataPackVersions: Record<string, number[] | number> = {
 	"26.3 Pre-Release 2":[120,0],
 	"26.3 Pre-Release 3":[121,0],
 	
-	"26.3":[121,0]
+	"26.3":[121,0],
+	
+	"26.4-snapshot-1":[122,0],
+	"26.4-snapshot-2":[122,1],
+	"26.4-snapshot-3":[123,0],
+	"26.4-snapshot-4":[124,0],
+	"26.4-snapshot-5":[125,0],
+	"26.4-snapshot-6":[125,1]
 
-	//26.09.18更新
+	//26.10.28更新
 
 };
 
@@ -1624,9 +1631,16 @@ const resourcePackVersions: Record<string, number[] | number> = {
 	"26.3 Pre-Release 2":[97,1],
 	"26.3 Pre-Release 3":[97,1],
 	
-	"26.3":[97,1]
+	"26.3":[97,1],
+	
+	"26.4-snapshot-1":[98,0],
+	"26.4-snapshot-2":[99,0],
+	"26.4-snapshot-3":[100,0],
+	"26.4-snapshot-4":[100,1],
+	"26.4-snapshot-5":[100,2],
+	"26.4-snapshot-6":[101,0]
 
-	//26.09.18更新
+	//26.10.28更新
 
 };
 
